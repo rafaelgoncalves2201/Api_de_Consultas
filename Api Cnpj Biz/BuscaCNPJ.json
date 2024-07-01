@@ -1,0 +1,129 @@
+{
+    "cnpj": "00000000083208",
+    "email": "cnpjbiz@email.com",
+    "razao_social": "CNPJ BIZ SA",
+    "nome_fantasia": "CNPJ BIZ TEC",
+    "data_abertura": "2018-04-05",
+    "situacao_cadastral": {
+      "data": "2018-12-27",
+      "codigo_motivo": 63,
+      "descricao_motivo": "Omissão De Declarações"
+    },
+    "capital_social": 5000000,
+    "tipo": "FILIAL",
+    "situacao": "ATIVA",
+    "regime_tributario": [
+      "Simples Nacional"
+    ],
+    "natureza_juridica": {
+      "nome": "Sociedade Empresária Limitada",
+      "codigo": "206-2"
+    },
+    "endereco": {
+      "cep": "12345-000",
+      "tipo_logradouro": "Rua",
+      "logradouro": "Rio Bonito",
+      "numero": "5487",
+      "complemento": "Apto 202",
+      "bairro": "Bras",
+      "cidade": {
+        "nome": "Votuporanga",
+        "latitude": "-49.9703251",
+        "longitude": "-20.4171943"
+      },
+      "estado": {
+        "nome": "São Paulo",
+        "sigla": "SP"
+      },
+      "pais": {
+        "nome": "Brasil",
+        "sigla": "BR"
+      }
+    },
+    "porte_empresa": "ME",
+    "simples": {
+      "optante": false,
+      "data_opcao": "2017-10-16",
+      "data_exclusao": "2019-12-31"
+    },
+    "mei": {
+      "mei": true,
+      "complemento_razao_social": 4564546446878
+    },
+    "situacao_especial": {
+      "status": "ESPOLIO EV 407",
+      "data": "2008-12-31"
+    },
+    "telefones": [
+      {
+        "telefone": "(11) 4554-6547",
+        "tipo": "comercial",
+        "whatsapp": false
+      },
+      {
+        "telefone": "(11) 9824-0015",
+        "tipo": "celular",
+        "whatsapp": true
+      }
+    ],
+    "atividades": {
+      "principal": [
+        {
+          "codigo": "14.12-6-02",
+          "nome": "Confecção, sob medida, de peças do vestuário, exceto roupas íntimas"
+        }
+      ],
+      "secundaria": [
+        {
+          "codigo": "47.61-0-01",
+          "nome": "Comércio varejista de livros"
+        },
+        {
+          "codigo": "47.61-0-02",
+          "nome": "Comércio varejista de jornais e revistas"
+        },
+        {
+          "codigo": "82.20-2-00",
+          "nome": "Atividades de teleatendimento"
+        }
+      ]
+    },
+    "socios": [
+      {
+        "nome": "Nome do Socio 1",
+        "cnpj_cpf_socio": "000***45454**",
+        "funcao": {
+          "codigo": "49",
+          "descricao": "Sócio-Administrador"
+        },
+        "data_entrada_sociedade": "2017-10-16",
+        "pais": {
+          "codigo": null,
+          "descricao": null
+        },
+        "representante_legal": {
+          "cpf": null,
+          "nome": null
+        },
+        "faixa_etariia": "Entre 51 a 60 anos"
+      },
+      {
+        "nome": "Nome do Socio 2",
+        "cnpj_cpf_socio": "000***54646**",
+        "funcao": {
+          "codigo": "49",
+          "descricao": "Sócio-Administrador"
+        },
+        "data_entrada_sociedade": "2017-10-16",
+        "pais": {
+          "codigo": 367,
+          "descricao": "Inglaterra"
+        },
+        "representante_legal": {
+          "cpf": "***454555**",
+          "nome": "Nome do representante"
+        },
+        "faixa_etariia": "Entre 31 a 40 anos"
+      }
+    ]
+  }
