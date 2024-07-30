@@ -1,0 +1,150 @@
+[
+    {
+        "cnpj": 140151000145,
+        "addresses": [
+            {
+                "type": "Av",
+                "street": "Manoel Galvao",
+                "number": "210",
+                "complement": null,
+                "neighborhood": "Jd Sanzovo",
+                "city": "Jau",
+                "district": "SP",
+                "postal_code": "17204230",
+                "priority": 1
+            }
+        ],
+        "age": "29 anos 9 meses",
+        "branch_offices": [],
+        "business_size": "EPP",
+        "city_uf": "JAU, SP",
+        "cnae_code": 4661300,
+        "cnae_description": "Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças",
+        "company_name": "COMERCIAL JAUENSE DE BORRACHAS LTDA",
+        "creation_date": "1994-08-05",
+        "emails": [
+            {
+                "email": "veranilceb@uol.com.br",
+                "priority": 1
+            },
+            {
+                "email": "roberto.manin@terra.com.br",
+                "priority": 2
+            }
+        ],
+        "employee_count": "DE 10 A 49 FUNCIONARIOS",
+        "estimated_revenue": "DE R$ 5 MM ATÉ R$ 10 MM",
+        "headquarter_type": "MATRIZ",
+        "juridical_type": "Sociedade Empresária Limitada",
+        "juridical_type_id": 2062,
+        "land_lines": [],
+        "legal_representative": [],
+        "mobile_phones": [
+            {
+                "ddd": 14,
+                "number": "997179409",
+                "priority": 1,
+                "cdr_datetime": null,
+                "hot_datetime": null,
+                "whatsapp_datetime": null,
+                "cpc_datetime": null,
+                "devices_connected": null,
+                "active_nao_me_ligue": null
+            }
+        ],
+        "registry_situation": "ATIVA",
+        "related_companies": [],
+        "related_company_members": [
+            {
+                "cpf": 13078988821,
+                "name": "PAULO HENRIQUE GABRIEL",
+                "position": "521110 - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 13106344830,
+                "name": "ADMILSON FAQUERI",
+                "position": "521110 - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 25705343825,
+                "name": "MARCELO MACCORIN",
+                "position": "521110 - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 26982593886,
+                "name": "FABIAN VITOR ROMANO",
+                "position": "521110 - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 41627535802,
+                "name": "GUILHERME VINICIUS BRAVI DA ROCHA",
+                "position": "521110 - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 43869176830,
+                "name": "LUCAS FERRAZ DA SILVA",
+                "position": "414105 - ALMOXARIFE",
+                "position_status": "Última informação obtida"
+            }
+        ],
+        "related_emails": [],
+        "related_persons": [
+            {
+                "cpf": 15342743834,
+                "name": "HELVIO FRANCISCO ZENARO MANIN",
+                "priority": 1,
+                "description": "Sócio-Administrador",
+                "ownership": 0.0,
+                "partner": "PF",
+                "share": "0.00",
+                "qualification": "Sócio-Administrador"
+            },
+            {
+                "cpf": 96024674872,
+                "name": "JOSE OTAVIO JUSTULIN",
+                "priority": 2,
+                "description": "Sócio-Administrador",
+                "ownership": 0.0,
+                "partner": "PF",
+                "share": "0.00",
+                "qualification": "Sócio-Administrador"
+            },
+            {
+                "cpf": 19089065881,
+                "name": "MARIA IVONE PADOVAN MANIN",
+                "priority": 4,
+                "description": "Sócio",
+                "ownership": 0.0,
+                "partner": "PF",
+                "share": "0.00",
+                "qualification": "Sócio"
+            },
+            {
+                "cpf": 4633557840,
+                "name": "VERA NILCE BOTTURA JUSTULIN",
+                "priority": 3,
+                "description": "Sócio",
+                "ownership": 0.0,
+                "partner": "PF",
+                "share": "0.00",
+                "qualification": "Sócio"
+            }
+        ],
+        "segment": "Comércio",
+        "share_capital": "3700.00",
+        "simple_simei": {
+            "status_simei": "N",
+            "dt_option_simei": null,
+            "status_simple": "N",
+            "dt_option_simple": "2007-07-01"
+        },
+        "trading_name": "COMERCIAL JAUENSE",
+        "ip": "181.189.40.136",
+        "plan": "Consulta Premium"
+    }
+]

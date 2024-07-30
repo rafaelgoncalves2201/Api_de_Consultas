@@ -1,0 +1,806 @@
+[
+    {
+        "cnpj": 17312448001620,
+        "addresses": [
+            {
+                "type": "Avenida",
+                "street": "Um",
+                "number": "555",
+                "complement": null,
+                "neighborhood": "Chacaras Reunidas Anhanguera (nova Venez",
+                "city": "Sumare",
+                "district": "SP",
+                "postal_code": "13177438",
+                "priority": 1
+            }
+        ],
+        "age": "18 anos 4 meses",
+        "branch_offices": [
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448000143",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "MATRIZ"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448000224",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448000496",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448000739",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448000810",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448000909",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448001115",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448001468",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448001549",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448001700",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448002006",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448002359",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448002863",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448002944",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448003240",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448003320",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448003401",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448003916",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448004050",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448004130",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448004211",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448004300",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448004483",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448004564",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448004645",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448004726",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448004807",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448005021",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448005293",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448005374",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            },
+            {
+                "root_cnpj": "17312448",
+                "cnpj": "17312448005455",
+                "company_name": "TRACBEL SA",
+                "ds_branch_office": "FILIAL"
+            }
+        ],
+        "business_size": "DEMAIS",
+        "city_uf": "SUMARE, SP",
+        "cnae_code": 4689399,
+        "cnae_description": "Comércio atacadista especializado em outros produtos intermediários não especificados anteriormente",
+        "company_name": "TRACBEL SA",
+        "creation_date": "2006-01-03",
+        "emails": [
+            {
+                "email": "fiscal@tracbel.com.br",
+                "priority": 1
+            },
+            {
+                "email": "contabilidade@tracbel.com.br",
+                "priority": 2
+            },
+            {
+                "email": "daniele.goncalo@tracbel.com.br",
+                "priority": 3
+            }
+        ],
+        "employee_count": "DE 50 A 99 FUNCIONARIOS",
+        "estimated_revenue": "DE R$ 250 MM ATÉ R$ 500 MM",
+        "headquarter_type": "FILIAL",
+        "juridical_type": "Sociedade Anônima Fechada",
+        "juridical_type_id": 2054,
+        "land_lines": [
+            {
+                "ddd": 31,
+                "number": "21041800",
+                "priority": 1,
+                "cdr_datetime": null,
+                "hot_datetime": "2019-12-12 21:51:18",
+                "cpc_datetime": null
+            },
+            {
+                "ddd": 19,
+                "number": "37971800",
+                "priority": 2,
+                "cdr_datetime": null,
+                "hot_datetime": null,
+                "cpc_datetime": null
+            },
+            {
+                "ddd": 19,
+                "number": "38549011",
+                "priority": 3,
+                "cdr_datetime": null,
+                "hot_datetime": null,
+                "cpc_datetime": null
+            }
+        ],
+        "legal_representative": [],
+        "mobile_phones": [
+            {
+                "ddd": 11,
+                "number": "932361812",
+                "priority": 1,
+                "cdr_datetime": null,
+                "hot_datetime": null,
+                "whatsapp_datetime": null,
+                "cpc_datetime": null,
+                "devices_connected": null,
+                "active_nao_me_ligue": null
+            }
+        ],
+        "registry_situation": "ATIVA",
+        "related_companies": [],
+        "related_company_members": [
+            {
+                "cpf": 490655807,
+                "name": "FLAVIO ANTONIO SALLES NOGUEIRA",
+                "position": "521110 - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 4337614826,
+                "name": "SERGIO JOSE REIS",
+                "position": "521110 - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 4582699995,
+                "name": "FABIANO HORTENCIO LINO",
+                "position": "410205 - HISTORICO - SUPERVISOR DE ALMOXARIFADO",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 5728513832,
+                "name": "JOSIAS LAZARO",
+                "position": "520110 - SUPERVISOR DE VENDAS COMERCIAL",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 5916108842,
+                "name": "EDUARDO DA SILVA",
+                "position": "914420 - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 6012951612,
+                "name": "LUIZ ALBERTO DE PAULA CARDOSO",
+                "position": "520110 - SUPERVISOR DE VENDAS COMERCIAL",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 6349962400,
+                "name": "LUIZ CARLOS ALMEIDA DA SILVA",
+                "position": "914420 - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 7415645804,
+                "name": "MAURICIO MUNERATO AMENDOEIRA",
+                "position": "142115 - GERENTE FINANCEIRO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 7593359824,
+                "name": "GILSON PEREIRA",
+                "position": "521110 - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 8492747889,
+                "name": "AGNALDO JOSE DA SILVA",
+                "position": "354135 - TECNICO DE VENDAS",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 10533383846,
+                "name": "JOSE LIMA DA ROCHA",
+                "position": "414110 - HISTORICO - ARMAZENISTA",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 10551350652,
+                "name": "CHARLEM MICAEL FAGUNDES",
+                "position": "914420 - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 11123520666,
+                "name": "ANTONIO JOSE DE FREITAS",
+                "position": "342115 - CONTROLADOR DE SERVICOS DE MAQUINAS E VEICULOS",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 11284585786,
+                "name": "KELMO COSTA",
+                "position": "913120 - MECANICO DE MANUTENCAO DE MAQUINAS DE CONSTRUCAO E TERRAPLENAGEM",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 13745597842,
+                "name": "SERGIO RIBEIRO",
+                "position": "910105 - ENCARREGADO DE MANUTENCAO MECANICA DE SISTEMAS OPERACIONAIS",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 16078819852,
+                "name": "DAVI JONES DOS REIS CAETANO",
+                "position": "520110 - SUPERVISOR DE VENDAS COMERCIAL",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 16857057826,
+                "name": "VANDER CLAUDIO DO NASCIMENTO",
+                "position": "914420 - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 17565919896,
+                "name": "MARCOS ROBERTO FLECHEMAN",
+                "position": "521105 - VENDEDOR EM COMERCIO ATACADISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 18427372876,
+                "name": "LEANDRO SEBASTIAO DE ANDRADE",
+                "position": "914420 - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 20325184810,
+                "name": "JOSE RICARDO CORREA",
+                "position": "914420 - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 20379588897,
+                "name": "JUATAN DOS SANTOS",
+                "position": "723320 - PINTOR DE VEICULOS (FABRICACAO)",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 21596527846,
+                "name": "CLODOALDO SOARES DA SILVA",
+                "position": "914420 - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 22285924801,
+                "name": "DANILO ANTONIO CARDOSO",
+                "position": "521105 - VENDEDOR EM COMERCIO ATACADISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 22401972854,
+                "name": "JUAREZ GONCALVES RIBEIRO",
+                "position": "914420 - HISTORICO - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 22533815861,
+                "name": "TAMERON ALVES DA ROCHA",
+                "position": "914420 - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 23085857818,
+                "name": "JOSIBABY ASTOLFO",
+                "position": "342115 - HISTORICO - CONTROLADOR DE SERVICOS DE MAQUINAS E VEICULOS",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 23531384899,
+                "name": "EDGAR JAVIER MOGOLLON MANJARREZ",
+                "position": "342115 - CONTROLADOR DE SERVICOS DE MAQUINAS E VEICULOS",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 24556005809,
+                "name": "EDIGAR SOUZA MENDONCA FILHO",
+                "position": "914425 - MECANICO DE VEICULOS AUTOMOTORES A DIESEL (EXCETO TRATORES)",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 26771590828,
+                "name": "RODRIGO DO NASCIMENTO BARROS CRIPA",
+                "position": "521110 - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 28292277862,
+                "name": "ADEMIR JOSE DA SILVA",
+                "position": "914420 - HISTORICO - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 28359022879,
+                "name": "MARCIO FAGUNDES",
+                "position": "992115 - HISTORICO - BORRACHEIRO",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 28950469804,
+                "name": "THIAGO GONCALVES COSTA",
+                "position": "521110 - HISTORICO - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 29155058884,
+                "name": "DANIELE GONCALO ROCHA",
+                "position": "410105 - SUPERVISOR ADMINISTRATIVO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 30414406877,
+                "name": "JULIANO AMORIM GOMES",
+                "position": "919205 - MECANICO DE MANUTENCAO DE MAQUINAS CORTADORAS DE GRAMA, ROCADEIRAS, MOTOSSERRAS E SIMILARES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 30823997898,
+                "name": "REGIANE MARTINS DE OLIVEIRA",
+                "position": "342115 - HISTORICO - CONTROLADOR DE SERVICOS DE MAQUINAS E VEICULOS",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 31242668896,
+                "name": "RODOLFO ALVES DE PAULA",
+                "position": "782305 - HISTORICO - MOTORISTA DE CARRO DE PASSEIO",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 32671276885,
+                "name": "MARCOS DE SOUZA REIS",
+                "position": "914405 - HISTORICO - MECANICO DE MANUTENCAO DE AUTOMOVEIS, MOTOCICLETAS E VEICULOS SIMILARES",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 33003230883,
+                "name": "IVANESSA MARIA DOS SANTOS RAVAGNANI",
+                "position": "411010 - ASSISTENTE ADMINISTRATIVO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 33343458821,
+                "name": "RODRIGO TADEU SANTOS DA SILVA",
+                "position": "521110 - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 33513161867,
+                "name": "GABRIEL MANZAN",
+                "position": "521110 - HISTORICO - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 33910539840,
+                "name": "JEFFERSON FAVARIN",
+                "position": "914420 - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 34005034870,
+                "name": "ANDRE FERREIRA DE SOUZA",
+                "position": "914420 - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 34074889803,
+                "name": "GISLENE MATTOS VICENTE ARAUJO",
+                "position": "342115 - CONTROLADOR DE SERVICOS DE MAQUINAS E VEICULOS",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 34095665890,
+                "name": "DANIELA MARIA DA SILVA",
+                "position": "342115 - CONTROLADOR DE SERVICOS DE MAQUINAS E VEICULOS",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 34505230821,
+                "name": "MARIA JOSE HORTENCIO",
+                "position": "514320 - FAXINEIRO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 34799032828,
+                "name": "EDIVALDO SANTOS DA SILVA LORETO",
+                "position": "142405 - GERENTE DE COMPRAS",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 34981126867,
+                "name": "JUAREZ OLIVEIRA DOS SANTOS",
+                "position": "914420 - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 35994433861,
+                "name": "GABRIELLE ALVES BRITTO NOTARI MACUMOTO",
+                "position": "142315 - GERENTE DE MARKETING",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 36884298855,
+                "name": "EDUARDO NORA GOMES",
+                "position": "914405 - MECANICO DE MANUTENCAO DE AUTOMOVEIS, MOTOCICLETAS E VEICULOS SIMILARES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 36890905806,
+                "name": "DANILO CARLOS SILVA",
+                "position": "521110 - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 38091642830,
+                "name": "SAYONARA ABRANTES ELIAS SILVA",
+                "position": "422105 - RECEPCIONISTA, EM GERAL",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 38657612836,
+                "name": "DEBORA MARCIANO",
+                "position": "391210 - TECNICO DE GARANTIA DA QUALIDADE",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 39402839836,
+                "name": "MARCOS LEANDRO ETCHEVERRY",
+                "position": "914420 - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 40539521825,
+                "name": "IGNADIELBER DE MOURA VIANA",
+                "position": "914420 - MECANICO DE MANUTENCAO DE TRATORES",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 40633920827,
+                "name": "EDUARDO DA SILVA",
+                "position": "411010 - ASSISTENTE ADMINISTRATIVO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 42430340879,
+                "name": "JESSICA CAROLINE NASCIMENTO DE CARVALHO",
+                "position": "252105 - ADMINISTRADOR",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 42462147870,
+                "name": "RAPHAEL DE CASTRO LUIZ",
+                "position": "519935 - HISTORICO - LAVADOR DE VEICULOS",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 43399287801,
+                "name": "IGOR COSTA TRAJANO",
+                "position": "252105 - ADMINISTRADOR",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 44088294807,
+                "name": "VINICIUS GOMES FERREIRA",
+                "position": "411010 - ASSISTENTE ADMINISTRATIVO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 44356477880,
+                "name": "CAMILA PEREIRA DE LIMA",
+                "position": "411010 - ASSISTENTE ADMINISTRATIVO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 45694706889,
+                "name": "IGOR FERNANDO DE MOURA",
+                "position": "414110 - ARMAZENISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 45976091806,
+                "name": "EDUARDO APARECIDO CORREIA DE LIMA",
+                "position": "411005 - AUXILIAR DE ESCRITORIO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 46240834823,
+                "name": "WASHINGTON CLEMENTINO JUNIOR",
+                "position": "519935 - HISTORICO - LAVADOR DE VEICULOS",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 47278556821,
+                "name": "GUSTAVO FERREIRA DE OLIVEIRA",
+                "position": "411005 - AUXILIAR DE ESCRITORIO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 47437208857,
+                "name": "DANIEL BRETAS SOARES",
+                "position": "411005 - AUXILIAR DE ESCRITORIO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 47540099836,
+                "name": "JULIA CRISTINA VIEIRA VIANA",
+                "position": "411005 - AUXILIAR DE ESCRITORIO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 47734918840,
+                "name": "CAROLINE DOS SANTOS FLORIANO",
+                "position": "411005 - HISTORICO - AUXILIAR DE ESCRITORIO",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 53045513620,
+                "name": "JOAO MANOEL DE ALMEIDA",
+                "position": "521110 - VENDEDOR DE COMERCIO VAREJISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 58955526920,
+                "name": "AMARILDO GALDINO DA SILVA",
+                "position": "411010 - ASSISTENTE ADMINISTRATIVO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 89825446900,
+                "name": "GILMAR DA SILVA",
+                "position": "911305 - HISTORICO - MECANICO DE MANUTENCAO DE MAQUINAS, EM GERAL",
+                "position_status": "Informação histórica"
+            }
+        ],
+        "related_emails": [
+            {
+                "email": "contabilidade@tracbel.com.br",
+                "cnpj": 17312448000909
+            },
+            {
+                "email": "celio.viana@tracbel.com.br",
+                "cnpj": 17312448001387
+            },
+            {
+                "email": "fiscal@tracbel.com.br",
+                "cnpj": 17312448001891
+            },
+            {
+                "email": "fiscal@tracbel.com.br",
+                "cnpj": 17312448002006
+            },
+            {
+                "email": "fabio.dasilva@tracbel.com.br",
+                "cnpj": 17312448002863
+            }
+        ],
+        "related_persons": [
+            {
+                "cpf": 9994570803,
+                "name": "CLEBER SOARES DE CARVALHO",
+                "priority": 1,
+                "description": "Diretor",
+                "ownership": null,
+                "partner": "PF",
+                "share": null,
+                "qualification": "Diretor"
+            },
+            {
+                "cpf": 10774231874,
+                "name": "GIDALTO ARAUJO DOS SANTOS",
+                "priority": 2,
+                "description": "Diretor",
+                "ownership": null,
+                "partner": "PF",
+                "share": null,
+                "qualification": "Diretor"
+            },
+            {
+                "cpf": 1529576776,
+                "name": "CARLOS RENATO MACHADO",
+                "priority": 8,
+                "description": "Diretor",
+                "ownership": null,
+                "partner": "PF",
+                "share": null,
+                "qualification": "Diretor"
+            },
+            {
+                "cpf": 789712687,
+                "name": "LUIZ GONZAGA DE MAGALHAES PEREIRA",
+                "priority": 7,
+                "description": "Presidente",
+                "ownership": null,
+                "partner": "PF",
+                "share": null,
+                "qualification": "Presidente"
+            },
+            {
+                "cpf": 3820331670,
+                "name": "LUIZ GUSTAVO ROCHA DE MAGALHAES PEREIRA",
+                "priority": 3,
+                "description": "Diretor",
+                "ownership": null,
+                "partner": "PF",
+                "share": null,
+                "qualification": "Diretor"
+            },
+            {
+                "cpf": 5511164631,
+                "name": "CAIRON COSTA FARIA",
+                "priority": 5,
+                "description": "Diretor",
+                "ownership": null,
+                "partner": "PF",
+                "share": null,
+                "qualification": "Diretor"
+            },
+            {
+                "cpf": 26100392801,
+                "name": "MARCELO MARQUES MAEHARA",
+                "priority": 6,
+                "description": "Diretor",
+                "ownership": null,
+                "partner": "PF",
+                "share": null,
+                "qualification": "Diretor"
+            },
+            {
+                "cpf": 50925024600,
+                "name": "PAULO HENRIQUE SANTOS BRASIL",
+                "priority": 4,
+                "description": "Diretor",
+                "ownership": null,
+                "partner": "PF",
+                "share": null,
+                "qualification": "Diretor"
+            }
+        ],
+        "segment": "Comércio",
+        "share_capital": "98259683.00",
+        "simple_simei": null,
+        "trading_name": "",
+        "ip": "181.189.40.136",
+        "plan": "Consulta Premium"
+    }
+]

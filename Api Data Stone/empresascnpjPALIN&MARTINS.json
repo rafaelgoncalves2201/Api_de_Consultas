@@ -1,0 +1,266 @@
+[
+    {
+        "cnpj": 12564060000116,
+        "addresses": [
+            {
+                "type": "Rua",
+                "street": "Bernardino De Campos",
+                "number": "3522",
+                "complement": "Conj 12  Sala 02",
+                "neighborhood": "Centro",
+                "city": "Sao Jose Do Rio Preto",
+                "district": "SP",
+                "postal_code": "15015300",
+                "priority": 1
+            }
+        ],
+        "age": "13 anos 8 meses",
+        "branch_offices": [],
+        "business_size": "ME",
+        "city_uf": "SAO JOSE DO RIO PRETO, SP",
+        "cnae_code": 6920601,
+        "cnae_description": "Atividades de contabilidade",
+        "company_name": "PALIN & MARTINS ORGANIZACAO TRIBUTARIA LTDA",
+        "creation_date": "2010-09-16",
+        "emails": [
+            {
+                "email": "dp.financeiro@palinemartins.com.br",
+                "priority": 1
+            },
+            {
+                "email": "financeiro@palinemartins.com.br",
+                "priority": 2
+            },
+            {
+                "email": "contabilidade@palinemartins.com.br",
+                "priority": 3
+            }
+        ],
+        "employee_count": "ATE 9 FUNCIONARIOS",
+        "estimated_revenue": "DE R$ 5 MM ATÉ R$ 10 MM",
+        "headquarter_type": "MATRIZ",
+        "juridical_type": "Sociedade Empresária Limitada",
+        "juridical_type_id": 2062,
+        "land_lines": [
+            {
+                "ddd": 17,
+                "number": "33012564",
+                "priority": 1,
+                "cdr_datetime": null,
+                "hot_datetime": null,
+                "cpc_datetime": null
+            },
+            {
+                "ddd": 17,
+                "number": "32343029",
+                "priority": 2,
+                "cdr_datetime": null,
+                "hot_datetime": null,
+                "cpc_datetime": null
+            },
+            {
+                "ddd": 17,
+                "number": "32127311",
+                "priority": 3,
+                "cdr_datetime": null,
+                "hot_datetime": null,
+                "cpc_datetime": null
+            }
+        ],
+        "legal_representative": [],
+        "mobile_phones": [
+            {
+                "ddd": 17,
+                "number": "981350456",
+                "priority": 1,
+                "cdr_datetime": "2020-02-18 11:30:49",
+                "hot_datetime": null,
+                "whatsapp_datetime": "2023-10-10 00:00:00",
+                "cpc_datetime": null,
+                "devices_connected": null,
+                "active_nao_me_ligue": null
+            },
+            {
+                "ddd": 17,
+                "number": "996811491",
+                "priority": 2,
+                "cdr_datetime": "2021-08-23 13:19:05",
+                "hot_datetime": null,
+                "whatsapp_datetime": "2023-10-10 00:00:00",
+                "cpc_datetime": null,
+                "devices_connected": null,
+                "active_nao_me_ligue": null
+            },
+            {
+                "ddd": 17,
+                "number": "997389722",
+                "priority": 3,
+                "cdr_datetime": null,
+                "hot_datetime": null,
+                "whatsapp_datetime": "2023-10-10 00:00:00",
+                "cpc_datetime": null,
+                "devices_connected": null,
+                "active_nao_me_ligue": null
+            }
+        ],
+        "registry_situation": "ATIVA",
+        "related_companies": [],
+        "related_company_members": [
+            {
+                "cpf": 4612093810,
+                "name": "LUZIA APARECIDA BONFOGO",
+                "position": "411005 - AUXILIAR DE ESCRITORIO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 13665799848,
+                "name": "ANDREIA DA SILVA SOUZA",
+                "position": "411005 - AUXILIAR DE ESCRITORIO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 16623020888,
+                "name": "EDDI CARLOS FELIX DE ARRUDA",
+                "position": "354120 - AGENTE DE VENDAS DE SERVICOS",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 19092406805,
+                "name": "SILVANA DE FATIMA PEDRON BARBOSA",
+                "position": "142105 - GERENTE ADMINISTRATIVO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 21623924880,
+                "name": "CAMILA VANESSA MAIA",
+                "position": "354145 - VENDEDOR PRACISTA",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 22082708861,
+                "name": "ELIETE DOS SANTOS DA SILVA",
+                "position": "514320 - FAXINEIRO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 22860425861,
+                "name": "MARGARISE CAROLINE RUFINO DA SILVA",
+                "position": "351605 - TECNICO EM SEGURANCA DO TRABALHO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 27876089810,
+                "name": "ANDREZA ROBERTA ZOCAL",
+                "position": "411005 - AUXILIAR DE ESCRITORIO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 33911602847,
+                "name": "ROBSON MUSSOLINI",
+                "position": "411010 - ASSISTENTE ADMINISTRATIVO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 34873679800,
+                "name": "ISRAEL DOS SANTOS ANTONIO",
+                "position": "411005 - HISTORICO - AUXILIAR DE ESCRITORIO",
+                "position_status": "Informação histórica"
+            },
+            {
+                "cpf": 34973246808,
+                "name": "VINICIUS BERETTA CALVO",
+                "position": "241005 - ADVOGADO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 35290670831,
+                "name": "VIVIANE HIROMI TATSUNO",
+                "position": "411005 - AUXILIAR DE ESCRITORIO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 36863127865,
+                "name": "TALITA MURAROTO WAKI",
+                "position": "411010 - ASSISTENTE ADMINISTRATIVO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 38838639809,
+                "name": "VANESSA CRISTINA DIOGO PUNJOLI",
+                "position": "241005 - ADVOGADO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 41005977895,
+                "name": "MARISA ALVES PRETI",
+                "position": "411005 - AUXILIAR DE ESCRITORIO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 41234530821,
+                "name": "THAMIRIS ANTIQUEIRA CARDOSO",
+                "position": "411005 - AUXILIAR DE ESCRITORIO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 43377968865,
+                "name": "RODRIGO CESAR GONCALVES",
+                "position": "411005 - AUXILIAR DE ESCRITORIO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 46523542823,
+                "name": "TAINARA FERNANDA SCATENA FRANCO",
+                "position": "411010 - ASSISTENTE ADMINISTRATIVO",
+                "position_status": "Última informação obtida"
+            },
+            {
+                "cpf": 97969869815,
+                "name": "VERA LUCIA PALIN MORAES",
+                "position": "411005 - AUXILIAR DE ESCRITORIO",
+                "position_status": "Última informação obtida"
+            }
+        ],
+        "related_emails": [
+            {
+                "email": "diretoria@palinemartins.com.br",
+                "cnpj": 7861752000196
+            },
+            {
+                "email": "dp.financeiro@palinemartins.com.br",
+                "cnpj": 10601932000143
+            },
+            {
+                "email": "contabilidade@palinemartins.com.br",
+                "cnpj": 16579691000160
+            },
+            {
+                "email": "financeiro@palinemartins.com.br",
+                "cnpj": 53715059000122
+            }
+        ],
+        "related_persons": [
+            {
+                "cpf": 13221786824,
+                "name": "ALTAIR HEITOR MARTINS PALIN",
+                "priority": 1,
+                "description": "Sócio-Administrador",
+                "ownership": 0.0,
+                "partner": "PF",
+                "share": "0.00",
+                "qualification": "Sócio-Administrador"
+            }
+        ],
+        "segment": "Atividades Jurídicas",
+        "share_capital": "10000.00",
+        "simple_simei": {
+            "status_simei": "N",
+            "dt_option_simei": null,
+            "status_simple": "N",
+            "dt_option_simple": "2010-09-16"
+        },
+        "trading_name": "PALIN & MARTINS",
+        "ip": "181.189.40.136",
+        "plan": "Consulta Premium"
+    }
+]
